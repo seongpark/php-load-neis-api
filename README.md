@@ -6,7 +6,7 @@
 ### JSON 방식 
 1. <a href="https://github.com/endroy/Snoopy">Snoopy.class.php</a>를 로드합니다.
 2. ```ATPT_OFCDC_SC_CODE``` 변수에 시/도 교육청 코드를 넣습니다.
-3. ```SD_SCHUL_CODE```에 학교 코드를 넣습니다.
+3. ```SD_SCHUL_CODE``` 변수 에 학교 코드를 넣습니다.
 ### XML 방식
 1. ```ATPT_OFCDC_SC_CODE``` 변수에 시/도 교육청 코드를 넣습니다.
-2. ```SD_SCHUL_CODE```에 학교 코드를 넣습니다.
+2. ```SD_SCHUL_CODE``` 변수에 학교 코드를 넣습니다.
