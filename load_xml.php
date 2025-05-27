@@ -1,6 +1,8 @@
 // XML 방식
 <?php
 
+$ATPT_OFCDC_SC_CODE = "";
+$SD_SCHUL_CODE = "";
 $date = date("Ymd");
 
 $xmlfile = 'https://open.neis.go.kr/hub/mealServiceDietInfo?ATPT_OFCDC_SC_CODE=K10&SD_SCHUL_CODE=' . $sch_code . '&MLSV_YMD=202309&KEY=c2a4b8fcdab24f92aaea45e7a1fa4512';
